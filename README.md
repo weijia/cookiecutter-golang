@@ -1,4 +1,4 @@
-# cookiecutter-golang
+# cookiecutter-golang with auto build on github actions
 
 [![Build Status](https://travis-ci.org/lacion/cookiecutter-golang.svg?branch=master)](https://travis-ci.org/lacion/cookiecutter-golang)
 
